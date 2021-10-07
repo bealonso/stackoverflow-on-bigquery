@@ -1,6 +1,7 @@
 {
   "schedules": [{
     "name": "daily",
+    "disabled": true,
     "options": {
       "includeDependencies": false,
       "fullRefresh": false,
@@ -17,9 +18,9 @@
     }]
   }],
   "notificationChannels": [{
-    "name": "email jo",
+    "name": "email",
     "email": {
-      "to": ["jo_bloggs@acme.co"]
+      "to": ["bealonso@google.com"]
     }
   }]
 }
