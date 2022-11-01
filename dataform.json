@@ -2,5 +2,6 @@
     "defaultSchema": "dataform",
     "assertionSchema": "dataform_assertions",
     "warehouse": "bigquery",
-    "defaultDatabase": "bia-demos"
+    "defaultDatabase": "bia-demos",
+    "defaultLocation": "US"
 }
